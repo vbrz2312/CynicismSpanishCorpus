@@ -9,6 +9,8 @@ The annotation guidelines had three sections: an introduction to the topic of co
 
 ![imagen](https://github.com/vbrz2312/CynicismSpanishCorpus/assets/26387527/c16e4c53-93fb-474a-95e5-397912bab702)
 
+To cite this corpus : 
+
 
 
 
