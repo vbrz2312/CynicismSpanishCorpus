@@ -1,5 +1,5 @@
 # CynicismSpanishCorpus
-Corpus of Cynical Expresions for Spanish Language 
+Cynical Expression Corpus for Spanish Language
 
 The corpus was generated from YouTube comments downloaded from new car analysis channels. The comments were filtered, taking into account two requirements: comments must contain at least ten words, and comments must have a minimum of 5 likes. 
 
