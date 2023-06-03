@@ -1,1 +1,2 @@
-
+This corpus contains 3 files to train a model. In our case we used BERT models. The training (75%), validation (12.5%),
+and test(12.5%) collections were constructed.
