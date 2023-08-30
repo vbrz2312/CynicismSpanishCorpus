@@ -12,21 +12,9 @@ The annotation guidelines had three sections: an introduction to the topic of co
 To cite this corpus : 
 Samuel Gonzalez-Lopez and Steven Bethard. 2023. Transformer-based cynical expression detection in a corpus of Spanish YouTube reviews. In Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis, pages 194–201, Toronto, Canada. Association for Computational Linguistics.
 
-or BibLatex:
+or for BibLatex:
+https://aclanthology.org/2023.wassa-1.18/
 
-@inproceedings{gonzalez-lopez-bethard-2023-transformer,
-    title = "Transformer-based cynical expression detection in a corpus of {S}panish {Y}ou{T}ube reviews",
-    author = "Gonzalez-Lopez, Samuel  and
-      Bethard, Steven",
-    booktitle = "Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, {\&} Social Media Analysis",
-    month = jul,
-    year = "2023",
-    address = "Toronto, Canada",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.wassa-1.18",
-    doi = "10.18653/v1/2023.wassa-1.18",
-    pages = "194--201",
-    abstract = "Consumers of services and products exhibit a wide range of behaviors on social networks when they are dissatisfied. In this paper, we consider three types of cynical expressions negative feelings, specific reasons, and attitude of being right and annotate a corpus of 3189 comments in Spanish on car analysis channels from YouTube. We evaluate both token classification and text classification settings for this problem, and compare performance of different pre-trained models including BETO, SpanBERTa, Multilingual Bert, and RoBERTuito. The results show that models achieve performance above 0.8 F1 for all types of cynical expressions in the text classification setting, but achieve lower performance (around 0.6-0.7 F1) for the harder token classification setting.",
-}
+
 
 
