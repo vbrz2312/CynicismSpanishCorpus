@@ -10,7 +10,9 @@ The annotation guidelines had three sections: an introduction to the topic of co
 ![imagen](https://github.com/vbrz2312/CynicismSpanishCorpus/assets/26387527/c16e4c53-93fb-474a-95e5-397912bab702)
 
 To cite this corpus : 
+Samuel Gonzalez-Lopez and Steven Bethard. 2023. Transformer-based cynical expression detection in a corpus of Spanish YouTube reviews. In Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis, pages 194–201, Toronto, Canada. Association for Computational Linguistics.
 
+or BibLatex:
 
 @inproceedings{gonzalez-lopez-bethard-2023-transformer,
     title = "Transformer-based cynical expression detection in a corpus of {S}panish {Y}ou{T}ube reviews",
